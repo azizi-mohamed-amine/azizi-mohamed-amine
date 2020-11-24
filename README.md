@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm looking for Internship in Data Science and Big Data 
 
 <!--
 **azizi-mohamed-amine/azizi-mohamed-amine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
